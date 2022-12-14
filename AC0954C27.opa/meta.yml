@@ -1,0 +1,20 @@
+id: AC0954C27
+title: Toh_83-The_Questions_of_Bhadrapala_the_Merchant-v1
+type: translation
+pechas:
+- I6C4BA677
+- I31B454FD
+source_metadata:
+  creationtool: 84000-translation-memory
+  creationtoolversion: 1.0.0.0
+  segtype: phrase
+  adminlang: en
+  srclang: bo
+  o-tmf: tei
+  datatype: Text
+  eft-text-id: UT22084-044-003
+  xmlns-eft: http://read.84000.co/ns/1.0
+  title: Toh_83-The_Questions_of_Bhadrapala_the_Merchant-v1
+alignment_to_base:
+  I6C4BA677/3659: '9898'
+  I31B454FD/2844: '9898'
